@@ -10,7 +10,7 @@ Aqui está o repositório com o desafio 02 da lista de desafios da Codelândia, 
 
 ## :computer: Projeto 
 
-Você pode acessar o protótipo acessando o discord da Codelândia, clicando [aqui](https://discord.com/invite/QevDJqCzaY).
+Você pode acessar o protótipo (e os desafios) acessando o discord da Codelândia, clicando [aqui](https://discord.com/invite/QevDJqCzaY).
 
 ## :memo: Licença
 
